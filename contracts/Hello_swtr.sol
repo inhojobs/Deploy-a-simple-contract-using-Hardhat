@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+/// SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.19;
 
 //This contract is only intended for testing purposes
@@ -30,3 +30,4 @@ contract Swisstronik {
         return message;
     }
 }
+
